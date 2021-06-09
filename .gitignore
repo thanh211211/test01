@@ -43,4 +43,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# IDE - VS
 /.vs
+*/**/.vs
+*/**/bin
+*/**/obj
